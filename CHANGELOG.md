@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 [Next release](https://github.com/barryvdh/laravel-ide-helper/compare/v2.12.3...master)
 --------------
 
+2023-02-23, 2.12.3
+------------------
+
+### Added
+- Add support for relations with composite keys. [#1479 / calebdw](https://github.com/barryvdh/laravel-ide-helper/pull/1479)
+
 2022-03-06, 2.12.3
 ------------------
 
